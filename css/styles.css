@@ -850,6 +850,14 @@ input[type='checkbox'] {
 	background-color: #2f2c3d;
 }
 
+.tabs-light {
+	background-color: #eee;
+}
+
+.tabs-light * {
+	color: black;
+}
+
 .tabs h2 {
 	margin-bottom: 1.125rem;
 	text-align: center;
